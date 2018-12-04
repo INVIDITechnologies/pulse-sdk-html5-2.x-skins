@@ -1,6 +1,6 @@
 ## HTML5 Ad Player Skins
 
-This repository contains skins for the Ooyala Pulse HTML5 Ad Player.
+This repository contains skins for the INVIDI Pulse HTML5 Ad Player.
 
 ### Base skin
 
