@@ -1,7 +1,7 @@
 module.exports = function(grunt) {
     const pkg = grunt.file.readJSON('package.json');
     const date = grunt.template.today('yyyy-mm-dd');
-    const sourceBanner = `/**\n * !${pkg.name} v${pkg.version} / ${date} / Ooyala Pulse Ad Player Base Skin\n */\n`;
+    const sourceBanner = `/**\n * !${pkg.name} v${pkg.version} / ${date} / INVIDI Pulse Ad Player Base Skin\n */\n`;
     const sourceFiles = [
         'src/intro.js',
         'src/PlayButton.js',
